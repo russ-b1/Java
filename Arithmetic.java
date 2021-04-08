@@ -1,8 +1,7 @@
 /*ITM 251-Spring 2017
 Date; 1/26/17
 Topic: Chapter 2- basic user input and arithmetic
-Instructor: Dr. Maurer
-Name: Bethany Russell*/
+*/
 
 import java.util.Scanner; //imports Scanner class to read input from user
 
