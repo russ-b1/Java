@@ -1,4 +1,4 @@
-/*Bethany Russell
+/*
 3-14-17
 Topic: Chapter 7- Get and set methods
 Dependencies:
