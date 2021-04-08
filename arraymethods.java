@@ -1,4 +1,4 @@
-/* Bethany Russell
+/* 
 Chapter 6
 3/2/17
 Arrays as arguments and parameters*/
